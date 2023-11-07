@@ -12,4 +12,7 @@ Note: This code uses Audio Toolbox and Signal Processing Toolbox
 
 Obvious improvements to make: Rewriting code in English, shortening the code by writing audio processing function, adding automatic string detection.
 </p>
-Look of the app layout: <br>
+Look of the app layout: <br><br>
+<p align = center>
+<img src="App view.png" width="600" title="hover text">
+</p>
